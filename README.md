@@ -336,27 +336,13 @@ TravAgent/
 
 ## 📸 Screenshots
 
-### Home Page
-
-(Add screenshot here)
-
-### Conversational Booking Interface
-
-(Add screenshot here)
-
-### AI Recommendations
-
-(Add screenshot here)
-
-### Workflow Panel
-
-(Add screenshot here)
-
-### Ticket Generation
-
-(Add screenshot here)
-
----
+<p align="center">
+  <img src="screenshot/1" width="45%">
+  <img src="screenshot/2" width="45%">
+  <img src="screenshot/3" width="45%">
+  <img src="screenshot/4" width="45%">
+  <img src="screenshot/5" width="45%">
+</p>
 
 ## 👨‍💻 Team
 

@@ -337,11 +337,11 @@ TravAgent/
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshot/1" width="45%">
-  <img src="screenshot/2" width="45%">
-  <img src="screenshot/3" width="45%">
-  <img src="screenshot/4" width="45%">
-  <img src="screenshot/5" width="45%">
+  <img src="screenshot/1.png" width="45%">
+  <img src="screenshot/2.png" width="45%">
+  <img src="screenshot/3.png" width="45%">
+  <img src="screenshot/4.png" width="45%">
+  <img src="screenshot/5.png" width="45%">
 </p>
 
 ## 👨‍💻 Team
